@@ -1,53 +1,27 @@
-# BREW/LAB — Coffee Shop Strategy Dashboard
+# BREW/LAB — Executive Coffee Strategy Dashboard
 
-A static, interactive GitHub Pages dashboard generated from **Coffee_Shop_Strategy_Review (1)(1).xlsx**.
+A static, responsive GitHub Pages dashboard generated from `Coffee_Shop_Strategy_Review (1)(1).xlsx`.
 
-## What is in the workbook
+## Publish on GitHub Pages
+1. Upload **all files in this folder** to the root of your `coffee-strategy-dashboard` repository.
+2. In GitHub: **Settings → Pages → Deploy from a branch → main → /(root) → Save**.
+3. Wait for the Pages deployment to complete, then hard-refresh the live URL.
 
-The source workbook contains 15 sheets. The dashboard uses:
-- `Run Summary`: 15 simulation runs, five runs each for L1/L2/L3.
-- `Data L1-L2`: 50 run-year records with location, roasting, coffee, pricing, stars, demand, revenue, costs and operating profit.
-- `Data L3`: 50 market-year records split between Mature and Emerging markets.
-- `Experiments & Playbook`: 14 strategic comparisons and 7 evidence-supported decision rules.
+## Files
+- `index.html` — dashboard structure
+- `styles.css` — executive visual system and responsive layout
+- `app.js` — filters, charts, interactions, CSV export
+- `data.json` — workbook-derived dashboard snapshot
+- `.nojekyll` — prevents Jekyll processing
 
-## Calculated metrics
+## Updating the data
+This version is a static snapshot. When the Excel workbook changes, regenerate `data.json` from these workbook sheets: `Run Summary`, `Data L1-L2`, `Data L3`, and `Experiments & Playbook`. Do not hand-edit simulation results in the UI.
 
-- **Target achievement** = count of filtered runs where `Game total ($) >= Target ($)`.
-- **Average game total** = arithmetic mean of `Game total ($)` for filtered runs.
+## Metric definitions
+- **Average game total** = arithmetic mean of `Game total ($)` for runs currently shown.
+- **Target achievement** = runs where `Game total ($) >= Target ($)` / runs shown.
 - **Average target multiple** = mean of `Game total ($) / Target ($)`.
-- **Level average** = arithmetic mean of the five `Game total ($)` values within each level.
-- **L3 annual market operating profit** = Mature operating profit + Emerging operating profit for the selected year. This deliberately excludes franchise/all-markets results and is labelled as such in the dashboard.
+- For Level 3, the overall game total comes from `Run Summary`. The Mature + Emerging operating-profit series is used only as a trajectory view and is not presented as a reconstruction of the total.
 
-## Run locally
-
-The site has no build step and no external JavaScript dependencies. Open `index.html` directly in a modern browser. For a local web server, run:
-
-```bash
-python -m http.server 8000
-```
-
-Then open `http://localhost:8000`.
-
-## Deploy to GitHub Pages
-
-1. Create a GitHub repository, for example `coffee-strategy-dashboard`.
-2. Upload **all files in this folder** to the repository root.
-3. Commit to the `main` branch.
-4. Open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select **main** and **/(root)**, then save.
-7. GitHub will show the published Pages URL after deployment.
-
-## Updating the Excel data
-
-The browser does not read `.xlsx` files directly. `data.js` and `data.json` are generated snapshots of the workbook.
-
-When the workbook changes, regenerate those files from the updated workbook, keeping the same field names used by `app.js`. The safest workflow is to rerun the workbook-to-dashboard generator used to create this package. If columns/sheets are renamed, update the extraction mapping before publishing.
-
-## Reliability and privacy
-
-- No analytics, trackers, account credentials, or external APIs are included.
-- No workbook formulas are executed in the browser.
-- Missing chart data is handled by the dashboard's selection logic; unsupported fields are not fabricated.
-- The site respects `prefers-reduced-motion` for accessibility.
-- `data.json` is included for transparency and auditing; `data.js` is the browser-ready equivalent.
+## Design direction
+The interface is original, but informed by contemporary executive analytics patterns: restrained typography, high information density, strong hierarchy, limited accent color, progressive disclosure, and low cognitive load.

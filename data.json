@@ -1,172 +1,172 @@
 {
   "runs": [
     {
-      "level": "L1",
-      "run": 1,
-      "label": "L1 R1 City",
-      "strategy": "Premium price, evenings open; first attempt",
-      "game_total": 740214,
-      "workbook_total": 740214,
-      "target": 500000,
-      "pct_target": 1.480428,
-      "difference": 0
+      "Level": "L1",
+      "Run": 1,
+      "Label": "L1 R1 City",
+      "Strategy (one line)": "Premium price, evenings open; first attempt",
+      "Game total ($)": 740214,
+      "Workbook total ($)": 740214,
+      "Target ($)": 500000,
+      "% of target": 1.480428,
+      "Workbook \u2212 game ($)": 0
     },
     {
-      "level": "L1",
-      "run": 2,
-      "label": "L1 R2 Suburb",
-      "strategy": "Focused differentiation in the Suburb",
-      "game_total": 662589,
-      "workbook_total": 662589,
-      "target": 500000,
-      "pct_target": 1.325178,
-      "difference": 0
+      "Level": "L1",
+      "Run": 2,
+      "Label": "L1 R2 Suburb",
+      "Strategy (one line)": "Focused differentiation in the Suburb",
+      "Game total ($)": 662589,
+      "Workbook total ($)": 662589,
+      "Target ($)": 500000,
+      "% of target": 1.325178,
+      "Workbook \u2212 game ($)": 0
     },
     {
-      "level": "L1",
-      "run": 3,
-      "label": "L1 R3 Campus",
-      "strategy": "Low price (parity) for students; lean costs",
-      "game_total": 494089,
-      "workbook_total": 494090,
-      "target": 500000,
-      "pct_target": 0.988178,
-      "difference": 1
+      "Level": "L1",
+      "Run": 3,
+      "Label": "L1 R3 Campus",
+      "Strategy (one line)": "Low price (parity) for students; lean costs",
+      "Game total ($)": 494089,
+      "Workbook total ($)": 494090,
+      "Target ($)": 500000,
+      "% of target": 0.988178,
+      "Workbook \u2212 game ($)": 1
     },
     {
-      "level": "L1",
-      "run": 4,
-      "label": "L1 R4 City",
-      "strategy": "Run 1 with a $1,000 pay lead in Years 4–5",
-      "game_total": 754573,
-      "workbook_total": 754573,
-      "target": 500000,
-      "pct_target": 1.509146,
-      "difference": 0
+      "Level": "L1",
+      "Run": 4,
+      "Label": "L1 R4 City",
+      "Strategy (one line)": "Run 1 with a $1,000 pay lead in Years 4\u20135",
+      "Game total ($)": 754573,
+      "Workbook total ($)": 754573,
+      "Target ($)": 500000,
+      "% of target": 1.509146,
+      "Workbook \u2212 game ($)": 0
     },
     {
-      "level": "L1",
-      "run": 5,
-      "label": "L1 R5 City ★",
-      "strategy": "Run 4 with promotion cut to $10,000 in Years 4–5",
-      "game_total": 757947,
-      "workbook_total": 757946,
-      "target": 500000,
-      "pct_target": 1.515894,
-      "difference": -1
+      "Level": "L1",
+      "Run": 5,
+      "Label": "L1 R5 City \u2605",
+      "Strategy (one line)": "Run 4 with promotion cut to $10,000 in Years 4\u20135",
+      "Game total ($)": 757947,
+      "Workbook total ($)": 757946,
+      "Target ($)": 500000,
+      "% of target": 1.515894,
+      "Workbook \u2212 game ($)": -1
     },
     {
-      "level": "L2",
-      "run": 1,
-      "label": "L2 R1 City",
-      "strategy": "Baseline: buy roasted, ordinary beans",
-      "game_total": 779616,
-      "workbook_total": 779616,
-      "target": 500000,
-      "pct_target": 1.559232,
-      "difference": 0
+      "Level": "L2",
+      "Run": 1,
+      "Label": "L2 R1 City",
+      "Strategy (one line)": "Baseline: buy roasted, ordinary beans",
+      "Game total ($)": 779616,
+      "Workbook total ($)": 779616,
+      "Target ($)": 500000,
+      "% of target": 1.559232,
+      "Workbook \u2212 game ($)": 0
     },
     {
-      "level": "L2",
-      "run": 2,
-      "label": "L2 R2 City",
-      "strategy": "Roast own beans",
-      "game_total": 913665,
-      "workbook_total": 913665,
-      "target": 500000,
-      "pct_target": 1.82733,
-      "difference": 0
+      "Level": "L2",
+      "Run": 2,
+      "Label": "L2 R2 City",
+      "Strategy (one line)": "Roast own beans",
+      "Game total ($)": 913665,
+      "Workbook total ($)": 913665,
+      "Target ($)": 500000,
+      "% of target": 1.82733,
+      "Workbook \u2212 game ($)": 0
     },
     {
-      "level": "L2",
-      "run": 3,
-      "label": "L2 R3 City",
-      "strategy": "Roast own beans + one extra job kept for 5 years",
-      "game_total": 790871,
-      "workbook_total": 790870,
-      "target": 500000,
-      "pct_target": 1.581742,
-      "difference": -1
+      "Level": "L2",
+      "Run": 3,
+      "Label": "L2 R3 City",
+      "Strategy (one line)": "Roast own beans + one extra job kept for 5 years",
+      "Game total ($)": 790871,
+      "Workbook total ($)": 790870,
+      "Target ($)": 500000,
+      "% of target": 1.581742,
+      "Workbook \u2212 game ($)": -1
     },
     {
-      "level": "L2",
-      "run": 4,
-      "label": "L2 R4 City ★",
-      "strategy": "Roast own beans + organic beans",
-      "game_total": 963581,
-      "workbook_total": 963582,
-      "target": 500000,
-      "pct_target": 1.927162,
-      "difference": 1
+      "Level": "L2",
+      "Run": 4,
+      "Label": "L2 R4 City \u2605",
+      "Strategy (one line)": "Roast own beans + organic beans",
+      "Game total ($)": 963581,
+      "Workbook total ($)": 963582,
+      "Target ($)": 500000,
+      "% of target": 1.927162,
+      "Workbook \u2212 game ($)": 1
     },
     {
-      "level": "L2",
-      "run": 5,
-      "label": "L2 R5 Suburb",
-      "strategy": "Roast + organic in the Suburb",
-      "game_total": 847836,
-      "workbook_total": 847837,
-      "target": 500000,
-      "pct_target": 1.695672,
-      "difference": 1
+      "Level": "L2",
+      "Run": 5,
+      "Label": "L2 R5 Suburb",
+      "Strategy (one line)": "Roast + organic in the Suburb",
+      "Game total ($)": 847836,
+      "Workbook total ($)": 847837,
+      "Target ($)": 500000,
+      "% of target": 1.695672,
+      "Workbook \u2212 game ($)": 1
     },
     {
-      "level": "L3",
-      "run": 1,
-      "label": "L3 R1",
-      "strategy": "Roasting in Emerging; Emerging own stores stopped at 2",
-      "game_total": 10637554,
-      "workbook_total": 10637554,
-      "target": 5000000,
-      "pct_target": 2.1275108,
-      "difference": 0
+      "Level": "L3",
+      "Run": 1,
+      "Label": "L3 R1",
+      "Strategy (one line)": "Roasting in Emerging; Emerging own stores stopped at 2",
+      "Game total ($)": 10637554,
+      "Workbook total ($)": 10637554,
+      "Target ($)": 5000000,
+      "% of target": 2.1275108,
+      "Workbook \u2212 game ($)": 0
     },
     {
-      "level": "L3",
-      "run": 2,
-      "label": "L3 R2",
-      "strategy": "Run 1 with 3 Emerging own stores a year in Years 2–4",
-      "game_total": 11590330,
-      "workbook_total": 11590330,
-      "target": 5000000,
-      "pct_target": 2.318066,
-      "difference": 0
+      "Level": "L3",
+      "Run": 2,
+      "Label": "L3 R2",
+      "Strategy (one line)": "Run 1 with 3 Emerging own stores a year in Years 2\u20134",
+      "Game total ($)": 11590330,
+      "Workbook total ($)": 11590330,
+      "Target ($)": 5000000,
+      "% of target": 2.318066,
+      "Workbook \u2212 game ($)": 0
     },
     {
-      "level": "L3",
-      "run": 3,
-      "label": "L3 R3",
-      "strategy": "Run 2 with roasting moved to Mature only",
-      "game_total": 12332111,
-      "workbook_total": 12332110,
-      "target": 5000000,
-      "pct_target": 2.4664222,
-      "difference": -1
+      "Level": "L3",
+      "Run": 3,
+      "Label": "L3 R3",
+      "Strategy (one line)": "Run 2 with roasting moved to Mature only",
+      "Game total ($)": 12332111,
+      "Workbook total ($)": 12332110,
+      "Target ($)": 5000000,
+      "% of target": 2.4664222,
+      "Workbook \u2212 game ($)": -1
     },
     {
-      "level": "L3",
-      "run": 4,
-      "label": "L3 R4",
-      "strategy": "Run 2 with roasting in both markets",
-      "game_total": 12174325,
-      "workbook_total": 12174325,
-      "target": 5000000,
-      "pct_target": 2.434865,
-      "difference": 0
+      "Level": "L3",
+      "Run": 4,
+      "Label": "L3 R4",
+      "Strategy (one line)": "Run 2 with roasting in both markets",
+      "Game total ($)": 12174325,
+      "Workbook total ($)": 12174325,
+      "Target ($)": 5000000,
+      "% of target": 2.434865,
+      "Workbook \u2212 game ($)": 0
     },
     {
-      "level": "L3",
-      "run": 5,
-      "label": "L3 R5 ★",
-      "strategy": "Run 3 with a third Emerging own store in Year 1",
-      "game_total": 12501031,
-      "workbook_total": 12501030,
-      "target": 5000000,
-      "pct_target": 2.5002062,
-      "difference": -1
+      "Level": "L3",
+      "Run": 5,
+      "Label": "L3 R5 \u2605",
+      "Strategy (one line)": "Run 3 with a third Emerging own store in Year 1",
+      "Game total ($)": 12501031,
+      "Workbook total ($)": 12501030,
+      "Target ($)": 5000000,
+      "% of target": 2.5002062,
+      "Workbook \u2212 game ($)": -1
     }
   ],
-  "annual": [
+  "l12": [
     {
       "Level": 1,
       "Run": 1,
@@ -1328,7 +1328,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 318,
       "Own-store revenue ($)": 1217290,
-      "Operating profit ($)": 386493
+      "Operating profit ($)": 386493,
+      "Run 5 \u2013 All Markets income statement (extract)": "Year"
     },
     {
       "Run": 1,
@@ -1339,7 +1340,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 312,
       "Own-store revenue ($)": 2394324,
-      "Operating profit ($)": 794513
+      "Operating profit ($)": 794513,
+      "Run 5 \u2013 All Markets income statement (extract)": 1
     },
     {
       "Run": 1,
@@ -1350,7 +1352,8 @@
       "My price ($)": 3.75,
       "Drinks per store per day": 309,
       "Own-store revenue ($)": 3802169,
-      "Operating profit ($)": 1561821
+      "Operating profit ($)": 1561821,
+      "Run 5 \u2013 All Markets income statement (extract)": 2
     },
     {
       "Run": 1,
@@ -1361,7 +1364,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 329,
       "Own-store revenue ($)": 5050279,
-      "Operating profit ($)": 2116230
+      "Operating profit ($)": 2116230,
+      "Run 5 \u2013 All Markets income statement (extract)": 3
     },
     {
       "Run": 1,
@@ -1372,7 +1376,8 @@
       "My price ($)": 4,
       "Drinks per store per day": 312,
       "Own-store revenue ($)": 6823843,
-      "Operating profit ($)": 3242573
+      "Operating profit ($)": 3242573,
+      "Run 5 \u2013 All Markets income statement (extract)": 4
     },
     {
       "Run": 1,
@@ -1383,7 +1388,8 @@
       "My price ($)": 2,
       "Drinks per store per day": 277,
       "Own-store revenue ($)": 404135,
-      "Operating profit ($)": 34238
+      "Operating profit ($)": 34238,
+      "Run 5 \u2013 All Markets income statement (extract)": 5
     },
     {
       "Run": 1,
@@ -1394,7 +1400,8 @@
       "My price ($)": 2.25,
       "Drinks per store per day": 279,
       "Own-store revenue ($)": 457937,
-      "Operating profit ($)": 344965
+      "Operating profit ($)": 344965,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 1,
@@ -1405,7 +1412,8 @@
       "My price ($)": 2.5,
       "Drinks per store per day": 297,
       "Own-store revenue ($)": 541709,
-      "Operating profit ($)": 527649
+      "Operating profit ($)": 527649,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 1,
@@ -1416,7 +1424,8 @@
       "My price ($)": 2.5,
       "Drinks per store per day": 317,
       "Own-store revenue ($)": 577893,
-      "Operating profit ($)": 677766
+      "Operating profit ($)": 677766,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 1,
@@ -1427,7 +1436,8 @@
       "My price ($)": 3,
       "Drinks per store per day": 302,
       "Own-store revenue ($)": 660622,
-      "Operating profit ($)": 951306
+      "Operating profit ($)": 951306,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 2,
@@ -1438,7 +1448,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 318,
       "Own-store revenue ($)": 1217290,
-      "Operating profit ($)": 386493
+      "Operating profit ($)": 386493,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 2,
@@ -1449,7 +1460,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 312,
       "Own-store revenue ($)": 2394324,
-      "Operating profit ($)": 794513
+      "Operating profit ($)": 794513,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 2,
@@ -1460,7 +1472,8 @@
       "My price ($)": 3.75,
       "Drinks per store per day": 309,
       "Own-store revenue ($)": 3802169,
-      "Operating profit ($)": 1561821
+      "Operating profit ($)": 1561821,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 2,
@@ -1471,7 +1484,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 329,
       "Own-store revenue ($)": 5050279,
-      "Operating profit ($)": 2116230
+      "Operating profit ($)": 2116230,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 2,
@@ -1482,7 +1496,8 @@
       "My price ($)": 4,
       "Drinks per store per day": 312,
       "Own-store revenue ($)": 6823843,
-      "Operating profit ($)": 3242573
+      "Operating profit ($)": 3242573,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 2,
@@ -1493,7 +1508,8 @@
       "My price ($)": 2,
       "Drinks per store per day": 277,
       "Own-store revenue ($)": 404135,
-      "Operating profit ($)": 34238
+      "Operating profit ($)": 34238,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 2,
@@ -1504,7 +1520,8 @@
       "My price ($)": 2.25,
       "Drinks per store per day": 278,
       "Own-store revenue ($)": 1142456,
-      "Operating profit ($)": 96680
+      "Operating profit ($)": 96680,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 2,
@@ -1515,7 +1532,8 @@
       "My price ($)": 2.5,
       "Drinks per store per day": 295,
       "Own-store revenue ($)": 2152817,
-      "Operating profit ($)": 547907
+      "Operating profit ($)": 547907,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 2,
@@ -1526,7 +1544,8 @@
       "My price ($)": 2.5,
       "Drinks per store per day": 312,
       "Own-store revenue ($)": 3126768,
-      "Operating profit ($)": 955453
+      "Operating profit ($)": 955453,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 2,
@@ -1537,7 +1556,8 @@
       "My price ($)": 3,
       "Drinks per store per day": 297,
       "Own-store revenue ($)": 3571446,
-      "Operating profit ($)": 1854422
+      "Operating profit ($)": 1854422,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 3,
@@ -1548,7 +1568,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 338,
       "Own-store revenue ($)": 1293940,
-      "Operating profit ($)": 421263
+      "Operating profit ($)": 421263,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 3,
@@ -1559,7 +1580,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 332,
       "Own-store revenue ($)": 2545265,
-      "Operating profit ($)": 856784
+      "Operating profit ($)": 856784,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 3,
@@ -1570,7 +1592,8 @@
       "My price ($)": 3.75,
       "Drinks per store per day": 328,
       "Own-store revenue ($)": 4045078,
-      "Operating profit ($)": 1677045
+      "Operating profit ($)": 1677045,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 3,
@@ -1581,7 +1604,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 349,
       "Own-store revenue ($)": 5356879,
-      "Operating profit ($)": 2257897
+      "Operating profit ($)": 2257897,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 3,
@@ -1592,7 +1616,8 @@
       "My price ($)": 4,
       "Drinks per store per day": 331,
       "Own-store revenue ($)": 7256003,
-      "Operating profit ($)": 3472636
+      "Operating profit ($)": 3472636,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 3,
@@ -1603,7 +1628,8 @@
       "My price ($)": 2,
       "Drinks per store per day": 271,
       "Own-store revenue ($)": 395375,
-      "Operating profit ($)": 55375
+      "Operating profit ($)": 55375,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 3,
@@ -1614,7 +1640,8 @@
       "My price ($)": 2.25,
       "Drinks per store per day": 270,
       "Own-store revenue ($)": 1109606,
-      "Operating profit ($)": 140632
+      "Operating profit ($)": 140632,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 3,
@@ -1625,7 +1652,8 @@
       "My price ($)": 2.5,
       "Drinks per store per day": 285,
       "Own-store revenue ($)": 2079817,
-      "Operating profit ($)": 594223
+      "Operating profit ($)": 594223,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 3,
@@ -1636,7 +1664,8 @@
       "My price ($)": 2.5,
       "Drinks per store per day": 300,
       "Own-store revenue ($)": 3006318,
-      "Operating profit ($)": 994657
+      "Operating profit ($)": 994657,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 3,
@@ -1647,7 +1676,8 @@
       "My price ($)": 3,
       "Drinks per store per day": 285,
       "Own-store revenue ($)": 3426906,
-      "Operating profit ($)": 1861598
+      "Operating profit ($)": 1861598,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 4,
@@ -1658,7 +1688,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 338,
       "Own-store revenue ($)": 1293940,
-      "Operating profit ($)": 421263
+      "Operating profit ($)": 421263,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 4,
@@ -1669,7 +1700,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 332,
       "Own-store revenue ($)": 2545265,
-      "Operating profit ($)": 856784
+      "Operating profit ($)": 856784,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 4,
@@ -1680,7 +1712,8 @@
       "My price ($)": 3.75,
       "Drinks per store per day": 328,
       "Own-store revenue ($)": 4045078,
-      "Operating profit ($)": 1677045
+      "Operating profit ($)": 1677045,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 4,
@@ -1691,7 +1724,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 349,
       "Own-store revenue ($)": 5356879,
-      "Operating profit ($)": 2257897
+      "Operating profit ($)": 2257897,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 4,
@@ -1702,7 +1736,8 @@
       "My price ($)": 4,
       "Drinks per store per day": 331,
       "Own-store revenue ($)": 7256003,
-      "Operating profit ($)": 3472636
+      "Operating profit ($)": 3472636,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 4,
@@ -1713,7 +1748,8 @@
       "My price ($)": 2,
       "Drinks per store per day": 277,
       "Own-store revenue ($)": 404135,
-      "Operating profit ($)": 34238
+      "Operating profit ($)": 34238,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 4,
@@ -1724,7 +1760,8 @@
       "My price ($)": 2.25,
       "Drinks per store per day": 278,
       "Own-store revenue ($)": 1142456,
-      "Operating profit ($)": 96680
+      "Operating profit ($)": 96680,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 4,
@@ -1735,7 +1772,8 @@
       "My price ($)": 2.5,
       "Drinks per store per day": 295,
       "Own-store revenue ($)": 2152817,
-      "Operating profit ($)": 547907
+      "Operating profit ($)": 547907,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 4,
@@ -1746,7 +1784,8 @@
       "My price ($)": 2.5,
       "Drinks per store per day": 312,
       "Own-store revenue ($)": 3126768,
-      "Operating profit ($)": 955453
+      "Operating profit ($)": 955453,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 4,
@@ -1757,7 +1796,8 @@
       "My price ($)": 3,
       "Drinks per store per day": 297,
       "Own-store revenue ($)": 3571446,
-      "Operating profit ($)": 1854422
+      "Operating profit ($)": 1854422,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 5,
@@ -1768,7 +1808,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 338,
       "Own-store revenue ($)": 1293940,
-      "Operating profit ($)": 421263
+      "Operating profit ($)": 421263,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 5,
@@ -1779,7 +1820,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 332,
       "Own-store revenue ($)": 2545265,
-      "Operating profit ($)": 856784
+      "Operating profit ($)": 856784,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 5,
@@ -1790,7 +1832,8 @@
       "My price ($)": 3.75,
       "Drinks per store per day": 328,
       "Own-store revenue ($)": 4045078,
-      "Operating profit ($)": 1677045
+      "Operating profit ($)": 1677045,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 5,
@@ -1801,7 +1844,8 @@
       "My price ($)": 3.5,
       "Drinks per store per day": 349,
       "Own-store revenue ($)": 5356879,
-      "Operating profit ($)": 2257897
+      "Operating profit ($)": 2257897,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 5,
@@ -1812,7 +1856,8 @@
       "My price ($)": 4,
       "Drinks per store per day": 331,
       "Own-store revenue ($)": 7256003,
-      "Operating profit ($)": 3472636
+      "Operating profit ($)": 3472636,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 5,
@@ -1823,7 +1868,8 @@
       "My price ($)": 2,
       "Drinks per store per day": 271,
       "Own-store revenue ($)": 592593,
-      "Operating profit ($)": -31790
+      "Operating profit ($)": -31790,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 5,
@@ -1834,7 +1880,8 @@
       "My price ($)": 2.25,
       "Drinks per store per day": 270,
       "Own-store revenue ($)": 1330745,
-      "Operating profit ($)": 167671
+      "Operating profit ($)": 167671,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 5,
@@ -1845,7 +1892,8 @@
       "My price ($)": 2.5,
       "Drinks per store per day": 285,
       "Own-store revenue ($)": 2337878,
-      "Operating profit ($)": 654191
+      "Operating profit ($)": 654191,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 5,
@@ -1856,7 +1904,8 @@
       "My price ($)": 2.5,
       "Drinks per store per day": 299,
       "Own-store revenue ($)": 3275479,
-      "Operating profit ($)": 1062297
+      "Operating profit ($)": 1062297,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     },
     {
       "Run": 5,
@@ -1867,256 +1916,222 @@
       "My price ($)": 3,
       "Drinks per store per day": 284,
       "Own-store revenue ($)": 3733475,
-      "Operating profit ($)": 1963036
+      "Operating profit ($)": 1963036,
+      "Run 5 \u2013 All Markets income statement (extract)": null
     }
   ],
   "experiments": [
     {
-      "id": "E1",
-      "pillar": "1 · Where",
-      "question": "Which location earns most?",
-      "change": "Location: City vs Suburb",
-      "runs": "L1 R1 − L1 R2",
-      "profit_effect": 77625,
-      "conclusion": "The City earns more because of evening trade and a larger market.",
-      "quality": "Good"
+      "ID": "E1",
+      "Pillar": "1 \u00b7 Where",
+      "Question": "Which location earns most?",
+      "What changed": "Location: City vs Suburb",
+      "Runs compared": "L1 R1 \u2212 L1 R2",
+      "Profit effect ($)": 77625,
+      "Conclusion": "The City earns more because of evening trade and a larger market.",
+      "Evidence quality": "Good"
     },
     {
-      "id": "E2",
-      "pillar": "1 · Where",
-      "question": "Can the cheapest site win on low price?",
-      "change": "Campus at parity vs City at a premium",
-      "runs": "L1 R3 − L1 R1",
-      "profit_effect": -246124,
-      "conclusion": "Low rent and 5-star customers cannot offset a small, price-sensitive market.",
-      "quality": "Good"
+      "ID": "E2",
+      "Pillar": "1 \u00b7 Where",
+      "Question": "Can the cheapest site win on low price?",
+      "What changed": "Campus at parity vs City at a premium",
+      "Runs compared": "L1 R3 \u2212 L1 R1",
+      "Profit effect ($)": -246124,
+      "Conclusion": "Low rent and 5-star customers cannot offset a small, price-sensitive market.",
+      "Evidence quality": "Good"
     },
     {
-      "id": "E3",
-      "pillar": "1 · Where",
-      "question": "City or Suburb with the same best strategy?",
-      "change": "Location only (both roast + organic)",
-      "runs": "L2 R4 − L2 R5",
-      "profit_effect": 115745,
-      "conclusion": "Location sets the ceiling; strategy decides how close you get.",
-      "quality": "Good"
+      "ID": "E3",
+      "Pillar": "1 \u00b7 Where",
+      "Question": "City or Suburb with the same best strategy?",
+      "What changed": "Location only (both roast + organic)",
+      "Runs compared": "L2 R4 \u2212 L2 R5",
+      "Profit effect ($)": 115745,
+      "Conclusion": "Location sets the ceiling; strategy decides how close you get.",
+      "Evidence quality": "Good"
     },
     {
-      "id": "E4",
-      "pillar": "2 · How",
-      "question": "Is a $2,000 pay lead needed?",
-      "change": "Pay lead $2,000 → $1,000, Years 4–5",
-      "runs": "L1 R4 − L1 R1 (Y4–5)",
-      "profit_effect": 14359,
-      "conclusion": "A $1,000 lead keeps staff at 5 stars.",
-      "quality": "Clean one-variable test"
+      "ID": "E4",
+      "Pillar": "2 \u00b7 How",
+      "Question": "Is a $2,000 pay lead needed?",
+      "What changed": "Pay lead $2,000 \u2192 $1,000, Years 4\u20135",
+      "Runs compared": "L1 R4 \u2212 L1 R1 (Y4\u20135)",
+      "Profit effect ($)": 14359,
+      "Conclusion": "A $1,000 lead keeps staff at 5 stars.",
+      "Evidence quality": "Clean one-variable test"
     },
     {
-      "id": "E5",
-      "pillar": "2 · How",
-      "question": "Can training be cut to $1,000?",
-      "change": "Training $1,500 → $1,000, Year 1",
-      "runs": "L1 R5 − L1 R4 (Y1)",
-      "profit_effect": -6888,
-      "conclusion": "No: sales fall by more than the saving.",
-      "quality": "Clean one-variable test"
+      "ID": "E5",
+      "Pillar": "2 \u00b7 How",
+      "Question": "Can training be cut to $1,000?",
+      "What changed": "Training $1,500 \u2192 $1,000, Year 1",
+      "Runs compared": "L1 R5 \u2212 L1 R4 (Y1)",
+      "Profit effect ($)": -6888,
+      "Conclusion": "No: sales fall by more than the saving.",
+      "Evidence quality": "Clean one-variable test"
     },
     {
-      "id": "E6",
-      "pillar": "2 · How",
-      "question": "Does promotion above $10,000 help?",
-      "change": "Promotion $15,000 → $10,000, Years 4–5",
-      "runs": "L1 R5 − L1 R4 (Y4–5)",
-      "profit_effect": 9718,
-      "conclusion": "No: sales unchanged, so the extra spend is wasted.",
-      "quality": "Clean one-variable test"
+      "ID": "E6",
+      "Pillar": "2 \u00b7 How",
+      "Question": "Does promotion above $10,000 help?",
+      "What changed": "Promotion $15,000 \u2192 $10,000, Years 4\u20135",
+      "Runs compared": "L1 R5 \u2212 L1 R4 (Y4\u20135)",
+      "Profit effect ($)": 9718,
+      "Conclusion": "No: sales unchanged, so the extra spend is wasted.",
+      "Evidence quality": "Clean one-variable test"
     },
     {
-      "id": "E7",
-      "pillar": "2 · How",
-      "question": "Does roasting our own beans pay?",
-      "change": "Roast own vs buy roasted",
-      "runs": "L2 R2 − L2 R1",
-      "profit_effect": 134049,
-      "conclusion": "Yes, through 7–8% more customers, not through cost savings.",
-      "quality": "Clean one-variable test"
+      "ID": "E7",
+      "Pillar": "2 \u00b7 How",
+      "Question": "Does roasting our own beans pay?",
+      "What changed": "Roast own vs buy roasted",
+      "Runs compared": "L2 R2 \u2212 L2 R1",
+      "Profit effect ($)": 134049,
+      "Conclusion": "Yes, through 7\u20138% more customers, not through cost savings.",
+      "Evidence quality": "Clean one-variable test"
     },
     {
-      "id": "E8",
-      "pillar": "2 · How",
-      "question": "Do organic beans pay?",
-      "change": "Organic vs ordinary beans",
-      "runs": "L2 R4 − L2 R2",
-      "profit_effect": 49917,
-      "conclusion": "Yes: about twice their cost, and customers reach 5 stars at a premium.",
-      "quality": "Clean one-variable test"
+      "ID": "E8",
+      "Pillar": "2 \u00b7 How",
+      "Question": "Do organic beans pay?",
+      "What changed": "Organic vs ordinary beans",
+      "Runs compared": "L2 R4 \u2212 L2 R2",
+      "Profit effect ($)": 49917,
+      "Conclusion": "Yes: about twice their cost, and customers reach 5 stars at a premium.",
+      "Evidence quality": "Clean one-variable test"
     },
     {
-      "id": "E9",
-      "pillar": "2 · How",
-      "question": "Does one extra job pay for itself?",
-      "change": "One extra employee kept for 5 years",
-      "runs": "L2 R3 − L2 R2",
-      "profit_effect": -122795,
-      "conclusion": "No: demand rises only in the hiring year. A people-versus-profit trade-off.",
-      "quality": "Clean one-variable test"
+      "ID": "E9",
+      "Pillar": "2 \u00b7 How",
+      "Question": "Does one extra job pay for itself?",
+      "What changed": "One extra employee kept for 5 years",
+      "Runs compared": "L2 R3 \u2212 L2 R2",
+      "Profit effect ($)": -122795,
+      "Conclusion": "No: demand rises only in the hiring year. A people-versus-profit trade-off.",
+      "Evidence quality": "Clean one-variable test"
     },
     {
-      "id": "E10",
-      "pillar": "2 · How",
-      "question": "Roast + organic in the Suburb?",
-      "change": "Roast + organic vs neither",
-      "runs": "L2 R5 − L1 R2",
-      "profit_effect": 185248,
-      "conclusion": "Larger lift in the Suburb; about $24,000 of the gain is pay and training tuning.",
-      "quality": "Good"
+      "ID": "E10",
+      "Pillar": "2 \u00b7 How",
+      "Question": "Roast + organic in the Suburb?",
+      "What changed": "Roast + organic vs neither",
+      "Runs compared": "L2 R5 \u2212 L1 R2",
+      "Profit effect ($)": 185248,
+      "Conclusion": "Larger lift in the Suburb; about $24,000 of the gain is pay and training tuning.",
+      "Evidence quality": "Good"
     },
     {
-      "id": "E11",
-      "pillar": "2 · How",
-      "question": "Is roasting worth it in Mature markets?",
-      "change": "Roasting in Mature: yes vs no",
-      "runs": "L3 R3 − L3 R2 (Mature)",
-      "profit_effect": 583995,
-      "conclusion": "Yes: about 20 more drinks per store per day, every year.",
-      "quality": "Clean one-variable test"
+      "ID": "E11",
+      "Pillar": "2 \u00b7 How",
+      "Question": "Is roasting worth it in Mature markets?",
+      "What changed": "Roasting in Mature: yes vs no",
+      "Runs compared": "L3 R3 \u2212 L3 R2 (Mature)",
+      "Profit effect ($)": 583995,
+      "Conclusion": "Yes: about 20 more drinks per store per day, every year.",
+      "Evidence quality": "Clean one-variable test"
     },
     {
-      "id": "E12",
-      "pillar": "2 · How",
-      "question": "Is roasting worth it in Emerging markets?",
-      "change": "Roasting in Emerging: yes vs no",
-      "runs": "L3 R2 − L3 R3 (Emerging)",
-      "profit_effect": -157785,
-      "conclusion": "No: the small lift does not cover roaster depreciation.",
-      "quality": "Clean one-variable test"
+      "ID": "E12",
+      "Pillar": "2 \u00b7 How",
+      "Question": "Is roasting worth it in Emerging markets?",
+      "What changed": "Roasting in Emerging: yes vs no",
+      "Runs compared": "L3 R2 \u2212 L3 R3 (Emerging)",
+      "Profit effect ($)": -157785,
+      "Conclusion": "No: the small lift does not cover roaster depreciation.",
+      "Evidence quality": "Clean one-variable test"
     },
     {
-      "id": "E13",
-      "pillar": "3 · Grow",
-      "question": "Open Emerging own stores faster?",
-      "change": "3 more Emerging own stores a year, Years 2–4",
-      "runs": "L3 R2 − L3 R1",
-      "profit_effect": 952776,
-      "conclusion": "Yes: profit dips for two years, then overtakes.",
-      "quality": "Clean one-variable test"
+      "ID": "E13",
+      "Pillar": "3 \u00b7 Grow",
+      "Question": "Open Emerging own stores faster?",
+      "What changed": "3 more Emerging own stores a year, Years 2\u20134",
+      "Runs compared": "L3 R2 \u2212 L3 R1",
+      "Profit effect ($)": 952776,
+      "Conclusion": "Yes: profit dips for two years, then overtakes.",
+      "Evidence quality": "Clean one-variable test"
     },
     {
-      "id": "E14",
-      "pillar": "3 · Grow",
-      "question": "Open one more Emerging store in Year 1?",
-      "change": "3 Emerging own stores in Year 1, not 2",
-      "runs": "L3 R5 − L3 R3",
-      "profit_effect": 168920,
-      "conclusion": "Yes: level by Year 3, ahead afterwards; no loss of sales per store.",
-      "quality": "Clean one-variable test"
+      "ID": "E14",
+      "Pillar": "3 \u00b7 Grow",
+      "Question": "Open one more Emerging store in Year 1?",
+      "What changed": "3 Emerging own stores in Year 1, not 2",
+      "Runs compared": "L3 R5 \u2212 L3 R3",
+      "Profit effect ($)": 168920,
+      "Conclusion": "Yes: level by Year 3, ahead afterwards; no loss of sales per store.",
+      "Evidence quality": "Clean one-variable test"
     }
   ],
   "rules": [
     {
-      "n": 1,
-      "pillar": "1 · Where",
-      "situation": "Choosing a site or market",
-      "rule": "Pick the largest market with evening demand",
-      "evidence": "E1, E2, E3",
-      "caveat": "Low rent cannot fix a small market"
+      "ID": 1,
+      "Pillar": "1 \u00b7 Where",
+      "Question": "Choosing a site or market",
+      "What changed": "Pick the largest market with evening demand",
+      "Runs compared": "E1, E2, E3",
+      "Profit effect ($)": null,
+      "Conclusion": "Low rent cannot fix a small market",
+      "Evidence quality": null
     },
     {
-      "n": 2,
-      "pillar": "2 · How",
-      "situation": "Recession",
-      "rule": "Match competitors' price",
-      "evidence": "Exhibit 4",
-      "caveat": "A discount below rivals was never tested"
+      "ID": 2,
+      "Pillar": "2 \u00b7 How",
+      "Question": "Recession",
+      "What changed": "Match competitors' price",
+      "Runs compared": "Exhibit 4",
+      "Profit effect ($)": null,
+      "Conclusion": "A discount below rivals was never tested",
+      "Evidence quality": null
     },
     {
-      "n": 3,
-      "pillar": "2 · How",
-      "situation": "Good economy or recovery",
-      "rule": "Charge a 7–20% premium",
-      "evidence": "Exhibit 4",
-      "caveat": "Customers drop to 4 stars without brand support (roasting, organic)"
+      "ID": 3,
+      "Pillar": "2 \u00b7 How",
+      "Question": "Good economy or recovery",
+      "What changed": "Charge a 7\u201320% premium",
+      "Runs compared": "Exhibit 4",
+      "Profit effect ($)": null,
+      "Conclusion": "Customers drop to 4 stars without brand support (roasting, organic)",
+      "Evidence quality": null
     },
     {
-      "n": 4,
-      "pillar": "2 · How",
-      "situation": "Staff",
-      "rule": "Pay $1,000 above rivals; train at $1,500",
-      "evidence": "E4, E5",
-      "caveat": "Higher training was not tested cleanly"
+      "ID": 4,
+      "Pillar": "2 \u00b7 How",
+      "Question": "Staff",
+      "What changed": "Pay $1,000 above rivals; train at $1,500",
+      "Runs compared": "E4, E5",
+      "Profit effect ($)": null,
+      "Conclusion": "Higher training was not tested cleanly",
+      "Evidence quality": null
     },
     {
-      "n": 5,
-      "pillar": "2 · How",
-      "situation": "Roasting and premium beans",
-      "rule": "Invest only where customers value them",
-      "evidence": "E7, E8, E11, E12",
-      "caveat": "The Emerging penalty shrank as prices rose"
+      "ID": 5,
+      "Pillar": "2 \u00b7 How",
+      "Question": "Roasting and premium beans",
+      "What changed": "Invest only where customers value them",
+      "Runs compared": "E7, E8, E11, E12",
+      "Profit effect ($)": null,
+      "Conclusion": "The Emerging penalty shrank as prices rose",
+      "Evidence quality": null
     },
     {
-      "n": 6,
-      "pillar": "3 · Grow",
-      "situation": "Franchising",
-      "rule": "Open the maximum every year",
-      "evidence": "Exhibit 7",
-      "caveat": "Relies on keeping customers at 5 stars"
+      "ID": 6,
+      "Pillar": "3 \u00b7 Grow",
+      "Question": "Franchising",
+      "What changed": "Open the maximum every year",
+      "Runs compared": "Exhibit 7",
+      "Profit effect ($)": null,
+      "Conclusion": "Relies on keeping customers at 5 stars",
+      "Evidence quality": null
     },
     {
-      "n": 7,
-      "pillar": "3 · Grow",
-      "situation": "Own stores",
-      "rule": "Open early and at the maximum; stop in the final year",
-      "evidence": "E13, E14",
-      "caveat": "Expect a profit dip first; yearly feedback will look bad"
+      "ID": 7,
+      "Pillar": "3 \u00b7 Grow",
+      "Question": "Own stores",
+      "What changed": "Open early and at the maximum; stop in the final year",
+      "Runs compared": "E13, E14",
+      "Profit effect ($)": null,
+      "Conclusion": "Expect a profit dip first; yearly feedback will look bad",
+      "Evidence quality": null
     }
-  ],
-  "metrics": {
-    "beat": 14,
-    "count": 15,
-    "best": {
-      "level": "L3",
-      "run": 5,
-      "label": "L3 R5 ★",
-      "strategy": "Run 3 with a third Emerging own store in Year 1",
-      "game_total": 12501031,
-      "workbook_total": 12501030,
-      "target": 5000000,
-      "pct_target": 2.5002062,
-      "difference": -1
-    },
-    "average": 4462688.8,
-    "level_avg": {
-      "L1": 681882.4,
-      "L2": 859113.8,
-      "L3": 11847070.2
-    }
-  },
-  "source": {
-    "file": "Coffee_Shop_Strategy_Review (1)(1).xlsx",
-    "sheets": [
-      "Answer",
-      "All Charts",
-      "Exhibit 1",
-      "Exhibit 2",
-      "Exhibit 3",
-      "Exhibit 4",
-      "Exhibit 5",
-      "Exhibit 6",
-      "Exhibit 7",
-      "Exhibit 8",
-      "Experiments & Playbook",
-      "Run Summary",
-      "Data L1-L2",
-      "Data L3",
-      "Checks & Log"
-    ],
-    "notes": [
-      "Game total ($) is the simulation-reported cumulative profit from Run Summary.",
-      "% of target = Game total / Target.",
-      "Target achievement count = runs where Game total >= Target.",
-      "Average game total = arithmetic mean of the 15 Game total values.",
-      "L1/L2 yearly operating profit is read from Data L1-L2.",
-      "L3 market charts use Data L3 market-year operating profit; run totals use Run Summary because Level 3 also includes all-markets/franchise results."
-    ]
-  }
+  ]
 }
