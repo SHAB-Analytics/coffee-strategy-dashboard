@@ -1,112 +1,111 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="BREW/LAB — The Anatomy of a Coffee Empire" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://shab-analytics.github.io/coffee-strategy-dashboard/"><img src="assets/launch.svg" alt="Open live simulation analysis" width="430" /></a>
-</p>
+# ☕ BREW/LAB — Strategy to Scale
 
-<p align="center">
-  <strong>Interactive strategy intelligence built directly from the Coffee Shop Strategy Review workbook.</strong><br/>
-  A portfolio project connecting strategic choices, operating economics and profitable growth.
-</p>
+### Coffee Shop Strategy Simulation · Executive Analytics
+
+**15 simulation runs · 3 stages of growth · 14 strategic experiments**  
+*What creates profitable growth in a coffee business?*
+
+### [▶ OPEN THE LIVE SIMULATION ANALYSIS](https://shab-analytics.github.io/coffee-strategy-dashboard/)
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-LIVE-2f6b55?style=for-the-badge&logo=github)
+![Data Source](https://img.shields.io/badge/Data-Excel%20Workbook-b46a3c?style=for-the-badge&logo=microsoftexcel)
+![Runs](https://img.shields.io/badge/Simulation%20Runs-15-231711?style=for-the-badge)
+![Experiments](https://img.shields.io/badge/Strategic%20Experiments-14-cb8a5a?style=for-the-badge)
+
+</div>
 
 ---
 
-## Executive snapshot
+## Executive brief
 
-| **15** simulation runs | **3** growth stages | **14** strategic experiments | **93%** target achievement |
-|:---:|:---:|:---:|:---:|
-| Portfolio evidence | L1 → L2 → L3 | Controlled / observational tests | 14 of 15 runs met target |
+BREW/LAB turns the supplied **Coffee Shop Strategy Review** workbook into an interactive strategy-intelligence experience. The objective is not simply to rank simulation scores. It is to understand **which operating choices created value, which destroyed it, and which capabilities remained economically attractive as the simulated business moved from a local shop to international scale**.
 
-> ### The strategic question
-> **What actually creates profitable scale?**  
-> BREW/LAB treats the simulation as a sequence of managerial decisions rather than a scoreboard. It asks where value was created, which choices changed economics, and whether a successful capability remained valuable as the business moved into a different market context.
+| Strategic stage | Management focus | Analytical question |
+|---|---|---|
+| **☕ L1 · Local Shop** | Location, price, people | Can the store establish attractive unit economics? |
+| **☕☕ L2 · Build the Brand** | Roasting, sourcing, operating model | Which capabilities strengthen differentiation and profit? |
+| **☕☕☕ L3 · Go International** | Market mix, store expansion, scale | Do successful capabilities still create value across different markets? |
 
-## The growth journey
+> **Portfolio signal:** 14 of 15 simulation runs met their workbook-reported target. The more important finding, however, is that **scale alone did not explain performance**—market context, capability economics and expansion timing materially changed outcomes.
 
-<p align="center">
-  <img src="assets/journey.svg" alt="Local shop to brand to international scale" width="95%" />
-</p>
+### [Explore the interactive evidence →](https://shab-analytics.github.io/coffee-strategy-dashboard/)
 
-The analysis follows the business through three increasingly complex stages. **Level 1** tests location, price and people decisions at store level. **Level 2** introduces capability choices such as roasting and organic sourcing. **Level 3** asks whether those capabilities still make economic sense when the business scales across Mature and Emerging markets.
+---
 
 ## What the evidence revealed
 
-| Signal | Workbook evidence | Executive interpretation |
+| Decision signal | Workbook evidence | Executive interpretation |
 |---|---:|---|
-| **Location sets the ceiling** | City vs Suburb: **+$77.6K**; Campus parity strategy vs City premium: **−$246.1K** | Cheap rent cannot compensate for a small, price-sensitive market. Market potential comes before cost optimization. |
-| **Roasting is a capability—not a universal answer** | Own roasting in L2: **+$134.0K**; Mature market: **+$584.0K**; Emerging market: **−$157.8K** | The same capability creates value only when demand is large enough to absorb its fixed economics. |
-| **Organic can support premium differentiation** | Organic beans: **+$49.9K** | Quality investment paid back while supporting stronger customer experience at a premium price. |
-| **Expansion has a J-curve** | Faster Emerging-market expansion: **+$952.8K** | Growth initially pressures profit, then overtakes as the larger store base begins to compound. |
-| **More labour is not automatically more value** | One extra job: **−$122.8K** | Better service capacity must translate into sustained demand; otherwise the people investment becomes structural cost. |
+| **Location sets the economic ceiling** | City vs Suburb **+$77.6K**; low-price Campus strategy **−$246.1K** | Lower rent cannot automatically compensate for a smaller or more price-sensitive market. Market attractiveness precedes cost optimization. |
+| **Roasting is a capability, not a universal answer** | L2 own roasting **+$134.0K**; Mature market **+$584.0K**; Emerging market **−$157.8K** | The same capability can create or destroy value depending on throughput and market economics. |
+| **Organic sourcing can support premium differentiation** | Organic beans **+$49.9K** | Product-quality investment can pay back when it supports willingness to pay and customer experience. |
+| **Expansion can produce a J-curve** | Faster Emerging-market expansion **+$952.8K** | Growth can depress profit before a larger store base creates operating leverage. Timing matters. |
+| **More labour is not automatically more value** | One extra job **−$122.8K** | Service capacity becomes structural cost when incremental demand does not justify it. |
 
-<sub>Profit effects above are taken from the workbook's experiment table. They are experiment-specific comparisons, not universal causal estimates.</sub>
+<sub>Experiment effects above are taken from the workbook's experiment table. They are comparisons within the simulation—not universal causal estimates.</sub>
 
 ---
 
 ## From bean to business model
 
-<p align="center">
-  <img src="assets/coffee-lifecycle.png" alt="Coffee lifecycle from blossom and cherry through green and roasted bean to cup" width="620" />
-</p>
+<div align="center">
+  <img src="coffee-lifecycle.png" alt="Coffee lifecycle from blossom and cherry through green and roasted bean to cup" width="560">
+  <br>
+  <em>From blossom to cup: the final product is the visible end of an interconnected value system.</em>
+</div>
 
-<p align="center"><em>From blossom to cup — the product is the visible end of an interconnected value system.</em></p>
+Coffee creates value long before the final transaction. Origin, processing, roasting, preparation and service shape the experience a customer eventually buys. BREW/LAB applies the same logic to strategy:
 
-Coffee creates value long before the final transaction. Origin, processing, roasting, preparation and service shape the experience the customer eventually buys. BREW/LAB applies the same logic to strategy:
+<div align="center">
 
-**SOURCE → ROAST → BRAND → PRICE → SERVE → SCALE**
+### 🌱 SOURCE → 🔥 ROAST → ✦ BRAND → 🏷️ PRICE → ☕ SERVE → 🌍 SCALE
 
-The simulation shows why these decisions cannot be optimized independently. Roasting can improve differentiation but fail when volume cannot cover fixed economics. Organic sourcing can strengthen willingness to pay. Expansion can create operating leverage, but only after the economics of the underlying model are strong enough to scale.
+</div>
+
+The simulation shows why these decisions cannot be optimized independently. **Roasting** can improve differentiation but fail when volume cannot cover its economics. **Organic sourcing** can strengthen willingness to pay. **Expansion** can create operating leverage—but only after the underlying operating model is strong enough to scale.
 
 ---
 
-## Inside the live analysis
+## Inside the analysis
 
 ### 01 · Executive Pulse
-See portfolio performance without letting Level 3's absolute scale hide Levels 1 and 2. The dashboard uses **Target Multiple = Game Total ÷ Target** as a calculated comparison metric while preserving reported dollar outcomes.
+A fast view of portfolio performance, target achievement and the central strategic signal. Calculated KPIs are explicitly identified rather than mixed with workbook-reported values.
 
 ### 02 · Performance
-Move from portfolio-level results into individual runs and annual operating trajectories. Filters and selections expose the operating choices behind the outcome rather than treating every run as an isolated score.
+Explore individual simulation runs, target multiples and annual operating trajectories. **Target Multiple = Game Total ÷ Target** provides a normalized comparison so Level 3's much larger absolute scale does not visually erase Levels 1 and 2.
 
 ### 03 · Decision Lab
-The workbook's 14 experiments become an interactive profit-impact view. Select an experiment to inspect the **question, change tested, runs compared, measured effect, evidence quality and strategic implication**.
+The workbook's 14 experiments become an interactive profit-impact view. Selecting an experiment reveals the **question tested, change made, runs compared, measured effect and strategic implication**.
 
 ### 04 · Strategy Playbook
-Translate individual tests into reusable managerial rules—while keeping the boundary between **workbook evidence** and **interpretation** visible.
+Individual experiments are translated into reusable managerial rules while preserving the boundary between **workbook evidence** and **interpretation**.
 
-<p align="center">
-  <a href="https://shab-analytics.github.io/coffee-strategy-dashboard/"><img src="assets/launch.svg" alt="Launch BREW/LAB live analysis" width="430" /></a>
-</p>
+<div align="center">
+
+## [▶ LAUNCH BREW/LAB — STRATEGY TO SCALE](https://shab-analytics.github.io/coffee-strategy-dashboard/)
+
+</div>
 
 ---
 
 ## Analytical discipline
 
-**Reported values remain reported values.** Calculated metrics are labelled as calculated. The dashboard does not silently manufacture missing fields or substitute assumptions for workbook data.
-
+- **Reported simulation values remain reported values.**
+- Calculated metrics are labelled as calculated.
 - **Target Multiple** = `Game total ÷ Target`.
 - **Target Achievement** = count of runs where `Game total ≥ Target`.
-- Level 3's displayed annual operating trajectory uses **Mature + Emerging operating profit by year**.
-- That annual trajectory is **not** used to reconstruct the workbook-reported Level 3 game total, because the workbook contains broader all-market/franchise information.
-- Experiment effects are presented in the context of the runs compared; they should not be interpreted as universal causal effects beyond the simulation.
-
-## Why this project exists
-
-This is not intended to be a decorative coffee dashboard. It is an exercise in **strategic reasoning through data**: turning a multi-stage business simulation into an interface that helps a reader move from outcome → evidence → interpretation → decision.
-
-The project demonstrates:
-
-`Strategy analysis` · `Experiment interpretation` · `Data storytelling` · `Interactive visualization` · `Executive communication` · `Static web deployment`
-
----
+- Level 3 annual trajectory uses **Mature + Emerging operating profit by year**.
+- That annual trajectory is **not** used to reconstruct the workbook-reported L3 game total because the workbook contains broader all-market/franchise information.
+- Experiment effects remain tied to the runs compared and are not presented as universal causal estimates.
 
 <details>
 <summary><strong>Technical architecture & GitHub Pages deployment</strong></summary>
 
-<br/>
+<br>
 
-The published experience is a static site designed for GitHub Pages. No server is required.
+The experience is a static GitHub Pages site—no application server is required.
 
 ```text
 coffee-strategy-dashboard/
@@ -114,26 +113,22 @@ coffee-strategy-dashboard/
 ├── styles.css
 ├── app.js
 ├── data.json
+├── coffee-lifecycle.png
 ├── README.md
-├── .nojekyll
-└── assets/
-    ├── hero.svg
-    ├── launch.svg
-    ├── journey.svg
-    └── coffee-lifecycle.png
+└── .nojekyll
 ```
 
-To deploy, place the files at the repository root and set **Settings → Pages → Deploy from a branch → `main` → `/ (root)`**.
+Deploy from **Settings → Pages → main → / (root)**.
 
-The live experience is available at:
-
-**https://shab-analytics.github.io/coffee-strategy-dashboard/**
+Live site: **https://shab-analytics.github.io/coffee-strategy-dashboard/**
 
 </details>
 
 ---
 
-<p align="center">
-  <strong>BREW/LAB</strong><br/>
-  <sub>Strategy performance, explained through evidence.</sub>
-</p>
+<div align="center">
+
+**BREW/LAB · STRATEGY TO SCALE**  
+*Strategy performance, explained through evidence.*
+
+</div>
