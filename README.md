@@ -25,4 +25,4 @@ The game gives the same result for the same decisions, so changing one decision 
 - `index.html`, `styles.css`, `app.js`: the page
 - `data.json`: all figures, exported from my master workbook (Coffee_Shop_Strategy_Review_MASTER_DATA.xlsx, v3.1)
 
-Shabnam Mohammed Sameer · MBA, Othman Yeop Abdullah Graduate School of Business, UUM
+
