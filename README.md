@@ -2,7 +2,7 @@
 
 **Live site:** https://shab-analytics.github.io/coffee-strategy-dashboard/
 
-An interactive review of my Coffee Shop Inc. business simulation (Sim Institute / Harvard Business Impact).
+An interactive review of my Coffee Shop Inc. business simulation (Sim Institute / Harvard Business Impact), played for OPMM6023 Strategic Management at Universiti Utara Malaysia, October–November 2026.
 
 **The answer in one line:** a differentiated coffee brand beat the profit target in 14 of 15 runs. Three choices mattered most: choose the market before the tactics, differentiate only where customers pay for it, and grow early and fast.
 
@@ -23,6 +23,6 @@ The game gives the same result for the same decisions, so changing one decision 
 ## Files
 
 - `index.html`, `styles.css`, `app.js`: the page
-- `data.json`: all figures, exported from my master workbook
+- `data.json`: all figures, exported from my master workbook (Coffee_Shop_Strategy_Review_MASTER_DATA.xlsx, v3.1)
 
-
+Shabnam Mohammed Sameer · MBA, Othman Yeop Abdullah Graduate School of Business, UUM
