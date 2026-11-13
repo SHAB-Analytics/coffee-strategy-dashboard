@@ -23,6 +23,6 @@ The game gives the same result for the same decisions, so changing one decision 
 ## Files
 
 - `index.html`, `styles.css`, `app.js`: the page
-- `data.json`: all figures, exported from my master workbook (Coffee_Shop_Strategy_Review_MASTER_DATA.xlsx, v3.1)
+- `data.json`: all figures, exported from my master workbook
 
 
