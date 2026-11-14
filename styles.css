@@ -133,3 +133,17 @@
 .report-count{margin:12px 0 0;font-size:13px;color:var(--muted)}
 
 .qr-link{display:inline-block;border-radius:12px;transition:transform .2s,box-shadow .2s}.qr-link:hover{transform:translateY(-3px);box-shadow:0 12px 24px rgba(49,35,24,.15)}.qr-link:focus-visible{outline:2px solid var(--copper);outline-offset:4px}.report-cta p{margin-bottom:0}.report-qr .report-count{margin-top:6px}
+
+/* ---------- Live latte art ---------- */
+.cup-journey .cup-scene .latte .art{animation:drift 7s ease-in-out 2.6s infinite alternate;transform-origin:50% 50%}
+.cup-journey .latte .pour{transform-box:fill-box;transform-origin:50% 50%;animation:pour .55s cubic-bezier(.2,.8,.25,1) both;animation-delay:calc(var(--d,0s) + var(--i) * .11s)}
+.cup-journey .latte .pull{stroke-dasharray:1;stroke-dashoffset:0;animation:pull .5s ease-out both;animation-delay:calc(var(--d,0s) + var(--i) * .11s)}
+.cup-two .latte{--d:.25s}.cup-three .latte{--d:.5s}
+.cup-journey .latte::before{content:"";position:absolute;inset:-20%;border-radius:50%;background:conic-gradient(from 0deg,transparent 0 12%,rgba(255,236,210,.22) 18%,transparent 26% 52%,rgba(255,236,210,.16) 60%,transparent 70%);mix-blend-mode:soft-light;animation:swirl 22s linear infinite;pointer-events:none}
+.cup-journey .latte.repour .pour,.cup-journey .latte.repour .pull{--d:0s}
+@keyframes pour{0%{opacity:0;transform:scale(.55) translateY(6%)}60%{opacity:1}100%{opacity:1;transform:none}}
+@keyframes pull{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes drift{0%{transform:rotate(-2.2deg) scale(1)}50%{transform:rotate(.6deg) scale(1.012)}100%{transform:rotate(2.4deg) scale(1.004)}}
+@keyframes swirl{to{transform:rotate(360deg)}}
+.cup-scene{cursor:pointer}
+@media(prefers-reduced-motion:reduce){.cup-journey .latte::before{display:none}}

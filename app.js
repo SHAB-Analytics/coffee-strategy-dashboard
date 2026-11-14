@@ -101,3 +101,20 @@ function visitorCounts(){const base='https://shabcoffee.goatcounter.com/counter/
  get('TOTAL').then(t=>{if(t&&t.count){let el=$('#visits');el.querySelector('b').textContent=t.count;el.hidden=false}});
  get('/report.html').then(r=>{if(r&&r.count){let el=$('#reportCount');el.textContent='Opened '+r.count+(r.count==='1'?' time':' times');el.hidden=false}})}
 visitorCounts();
+
+/* ---------- Live latte art: pour on load, re-pour on hover or tap ---------- */
+(function(){
+ const NS='http://www.w3.org/2000/svg';
+ document.querySelectorAll('.cup-journey .latte').forEach(latte=>{
+  const g=latte.querySelector('.art g');if(!g)return;
+  [...g.children].forEach((el,i)=>{
+   if(el.getAttribute('stroke')){el.setAttribute('pathLength','1');el.classList.add('pull');el.style.setProperty('--i',i);return}
+   const w=document.createElementNS(NS,'g');w.setAttribute('class','pour');w.style.setProperty('--i',i);
+   el.replaceWith(w);w.appendChild(el)});
+  const scene=latte.closest('.cup-scene');let busy=false;
+  const repour=()=>{if(busy||matchMedia('(prefers-reduced-motion: reduce)').matches)return;busy=true;
+   latte.classList.add('repour');latte.querySelectorAll('.pour,.pull').forEach(e=>{e.style.animation='none';void e.getBoundingClientRect();e.style.animation=''});
+   setTimeout(()=>{busy=false},1800)};
+  scene.addEventListener('mouseenter',repour);scene.addEventListener('click',repour);
+ });
+})();
