@@ -134,17 +134,11 @@
 
 .qr-link{display:inline-block;border-radius:12px;transition:transform .2s,box-shadow .2s}.qr-link:hover{transform:translateY(-3px);box-shadow:0 12px 24px rgba(49,35,24,.15)}.qr-link:focus-visible{outline:2px solid var(--copper);outline-offset:4px}.report-cta p{margin-bottom:0}.report-qr .report-count{margin-top:6px}
 
-/* ---------- Live latte art: continuous pour ---------- */
-.cup-journey .cup-scene .latte .art{animation:drift 7s ease-in-out 2.6s infinite alternate;transform-origin:50% 50%}
-.cup-journey .latte{--cycle:8s;--step:.12s}
-.cup-two .latte{--d:.9s}.cup-three .latte{--d:1.8s}.cup-one .latte{--step:.45s}
-.cup-journey .latte .pour{transform-box:fill-box;transform-origin:50% 50%;animation:pourloop var(--cycle) cubic-bezier(.2,.8,.25,1) infinite both;animation-delay:calc(var(--d,0s) + var(--i) * var(--step))}
-.cup-journey .latte .pull{stroke-dasharray:1;animation:pullloop var(--cycle) ease-out infinite both;animation-delay:calc(var(--d,0s) + var(--i) * var(--step))}
-.cup-journey .latte .pour.blobwrap{animation-name:blobloop}
-.cup-journey .latte::before{content:"";position:absolute;inset:-20%;border-radius:50%;background:conic-gradient(from 0deg,transparent 0 12%,rgba(255,236,210,.22) 18%,transparent 26% 52%,rgba(255,236,210,.16) 60%,transparent 70%);mix-blend-mode:soft-light;animation:swirl 22s linear infinite;pointer-events:none}
-@keyframes pourloop{0%{opacity:0;transform:scale(.5) translateY(8%)}7%{opacity:1;transform:none}80%{opacity:1;transform:none}90%{opacity:0;transform:scale(1.04)}100%{opacity:0;transform:scale(.5) translateY(8%)}}
-@keyframes pullloop{0%{stroke-dashoffset:1;opacity:0}1%{stroke-dashoffset:1;opacity:1}7%{stroke-dashoffset:0}80%{stroke-dashoffset:0;opacity:1}90%{opacity:0}100%{stroke-dashoffset:1;opacity:0}}
-@keyframes blobloop{0%{opacity:0;transform:scale(.15)}5%{opacity:1;transform:scale(.75)}10%{opacity:1;transform:scale(1)}15%{opacity:0;transform:scale(1.05)}100%{opacity:0;transform:scale(.15)}}
-@keyframes drift{0%{transform:rotate(-2.2deg) scale(1)}50%{transform:rotate(.6deg) scale(1.012)}100%{transform:rotate(2.4deg) scale(1.004)}}
+/* ---------- Fine china cups + living latte art ---------- */
+.cup-scene .china{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+.cup-journey .cup-scene .latte{inset:17.6%;border:0;border-radius:50%;box-shadow:inset 0 3px 7px rgba(30,10,2,.55),inset 0 0 0 1px rgba(60,25,10,.4);z-index:1}
+.cup-journey .cup-scene .latte .art{animation:none;will-change:opacity,transform,filter}
+.cup-journey .cup-scene .latte::before{content:"";position:absolute;inset:-20%;border-radius:50%;background:conic-gradient(from 0deg,transparent 0 12%,rgba(255,236,210,.22) 18%,transparent 26% 52%,rgba(255,236,210,.16) 60%,transparent 70%);mix-blend-mode:soft-light;animation:swirl 22s linear infinite;pointer-events:none}
+.cup-scene .steam{z-index:2}
 @keyframes swirl{to{transform:rotate(360deg)}}
 @media(prefers-reduced-motion:reduce){.cup-journey .latte::before,.cup-journey .latte .blob{display:none}}
