@@ -131,3 +131,5 @@
 @keyframes livepulse{70%{box-shadow:0 0 0 8px rgba(63,119,116,0)}100%{box-shadow:0 0 0 0 rgba(63,119,116,0)}}
 .foot{display:flex;flex-direction:column;align-items:center}
 .report-count{margin:12px 0 0;font-size:13px;color:var(--muted)}
+
+.qr-link{display:inline-block;border-radius:12px;transition:transform .2s,box-shadow .2s}.qr-link:hover{transform:translateY(-3px);box-shadow:0 12px 24px rgba(49,35,24,.15)}.qr-link:focus-visible{outline:2px solid var(--copper);outline-offset:4px}.report-cta p{margin-bottom:0}.report-qr .report-count{margin-top:6px}

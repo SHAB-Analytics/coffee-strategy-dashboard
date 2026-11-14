@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shab-analytics.github.io/coffee-strategy-dashboard/"><img src="assets/banner.png" alt="What 15 runs taught me: a coffee business simulation played as controlled experiments" width="100%"></a>
+  <a href="https://shab-analytics.github.io/coffee-strategy-dashboard/"><img src="banner.png" alt="What 15 runs taught me: a coffee business simulation played as controlled experiments" width="100%"></a>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">One shop, then a brand, then an international chain. Same news, same customers, one decision changed at a time.<br>Here is what actually moved profit, measured to the dollar.</p>
 
-<p align="center"><img src="assets/latte-pour.gif" alt="Latte art being poured, layer by layer" width="220"></p>
+<p align="center"><img src="latte-pour.gif" alt="Latte art being poured, layer by layer" width="220"></p>
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## 🎞️ Watch Level 3 grow, one idea at a time
 
-<p align="center"><img src="assets/level3-replay.gif" alt="Animated replay of Level 3 runs 1 to 5, from $10.64M to $12.50M" width="100%"></p>
+<p align="center"><img src="level3-replay.gif" alt="Animated replay of Level 3 runs 1 to 5, from $10.64M to $12.50M" width="100%"></p>
 
 Each run kept what worked and tested one new idea: faster openings, roasting moved to where customers valued it, one extra early store. Five-year profit climbed from **$10.64M to $12.50M**.
 
@@ -40,25 +40,25 @@ Each run kept what worked and tested one new idea: faster openings, roasting mov
 
 ## 🔬 The Decision Lab: what each choice was worth
 
-<p align="center"><img src="assets/site-lab.png" alt="Decision Lab: 14 controlled tests ranked by their effect on five-year profit" width="100%"></p>
+<p align="center"><img src="site-lab.png" alt="Decision Lab: 14 controlled tests ranked by their effect on five-year profit" width="100%"></p>
 
 The simulation is deterministic: the same decisions always give the same result. So changing **one** decision between two runs measures its exact value. Fourteen tests, from **+$952,776** (open stores faster) to **−$246,125** (pick the campus).
 
 <details>
 <summary><b>More from the dashboard</b> (performance, scorecard, playbook)</summary>
 <br>
-<img src="assets/site-performance.png" alt="All 15 runs against their targets" width="100%">
+<img src="site-performance.png" alt="All 15 runs against their targets" width="100%">
 <br><br>
-<img src="assets/site-scorecard.png" alt="People, planet and profit scorecard" width="100%">
+<img src="site-scorecard.png" alt="People, planet and profit scorecard" width="100%">
 <br><br>
-<img src="assets/site-playbook.png" alt="Seven decision rules" width="100%">
+<img src="site-playbook.png" alt="Seven decision rules" width="100%">
 </details>
 
 ---
 
 ## 📄 The field report
 
-<p align="center"><a href="https://shab-analytics.github.io/coffee-strategy-dashboard/report.html"><img src="assets/report-preview.png" alt="Pages from the field report: Grow Early, Differentiate Where It Pays" width="100%"></a></p>
+<p align="center"><a href="https://shab-analytics.github.io/coffee-strategy-dashboard/report.html"><img src="report-preview.png" alt="Pages from the field report: Grow Early, Differentiate Where It Pays" width="100%"></a></p>
 
 **Grow Early, Differentiate Where It Pays**: a 23-page business-journal style write-up with 15 exhibits, Porter's Five Forces, a VRIO test, break-even maths and an honest section on where my judgement was wrong. [Read it here →](https://shab-analytics.github.io/coffee-strategy-dashboard/report.html)
 
@@ -88,7 +88,7 @@ The simulation is deterministic: the same decisions always give the same result.
 | `index.html`, `styles.css`, `app.js` | The site (plain HTML, CSS and JavaScript, no build step) |
 | `data.json` | Every figure on the page |
 | `report.html` → `Coffee_Shop_Simulation_Report.pdf` | The field report |
-| `assets/` | README images and animations |
+| `` | README images and animations |
 
 ---
 
