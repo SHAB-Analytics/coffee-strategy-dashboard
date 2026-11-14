@@ -12,7 +12,7 @@
 
 <p align="center">One shop, then a brand, then an international chain. Same news, same customers, one decision changed at a time.<br>Here is what actually moved profit, measured to the dollar.</p>
 
-<p align="center"><img src="latte-pour.gif" alt="Latte art being poured, layer by layer" width="220"></p>
+<p align="center"><img src="latte-heart.gif" alt="A heart latte, beating, in a gold-rimmed china cup" width="240"></p>
 
 ---
 
