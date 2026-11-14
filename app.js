@@ -95,3 +95,9 @@ function renderScore(){$('#scoreTable').innerHTML=`<div class="srow head" role="
 function renderRules(){$('#rules').innerHTML=D.rules.map(r=>`<article class="rule"><strong>0${r.ID}</strong><span class="sit">${r.Question}</span><h3>${r['What changed']}</h3><p class="ev"><b>Evidence:</b> ${String(r['Runs compared']).replace(/\bE(\d+)/g,'test E$1')}</p><p class="cav"><b>May not hold:</b> ${r.Conclusion}</p></article>`).join('')}
 function tip(e,html){let t=$('#tip');t.innerHTML=html;t.hidden=false;t.style.left=Math.min(innerWidth-280,e.clientX+14)+'px';t.style.top=Math.min(innerHeight-120,e.clientY+14)+'px'}
 function exportCSV(){let h=['Level','Run','Label','Strategy (one line)','Game total ($)','Target ($)','% of target'],csv=[h.join(','),...runs().map(r=>h.map(k=>'"'+String(r[k]??'').replaceAll('"','""')+'"').join(','))].join('\n'),b=new Blob([csv],{type:'text/csv'}),u=URL.createObjectURL(b),a=document.createElement('a');a.href=u;a.download='coffee-shop-simulation-runs.csv';a.click();URL.revokeObjectURL(u)}
+
+/* ---------- public visitor counts (GoatCounter; cached up to 4 hours; hidden until available) ---------- */
+function visitorCounts(){const base='https://shabcoffee.goatcounter.com/counter/',get=p=>fetch(base+p+'.json').then(r=>r.ok?r.json():null).catch(()=>null);
+ get('TOTAL').then(t=>{if(t&&t.count){let el=$('#visits');el.querySelector('b').textContent=t.count;el.hidden=false}});
+ get('/report.html').then(r=>{if(r&&r.count){let el=$('#reportCount');el.textContent='Opened '+r.count+(r.count==='1'?' time':' times');el.hidden=false}})}
+visitorCounts();
